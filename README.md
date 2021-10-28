@@ -11,5 +11,5 @@ conda create –n carai python=3.6
 conda activate carai
 ```
 ```
-pip install mlagents-envs==0.21.0
+pip install mlagents-envs==0.21.0 pygad
 ```
